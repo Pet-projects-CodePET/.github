@@ -1,5 +1,5 @@
 <h1 align="center">
-CodePET / QA
+CodePET
 </h1>
 
 <p align="center">
